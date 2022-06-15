@@ -8,7 +8,7 @@ Since, number of neutral/dissatisfied customers (almost 57 %) are more than sati
 Also since average delay in arrival & departure both is 15 minutes, thus they must try to reduce it.
 
 
-### Stpes followed 
+### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
