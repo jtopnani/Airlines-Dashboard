@@ -12,6 +12,7 @@
 - Step 8 : Visual filters (Slicers) were added for four fields named "Class", "Customer Type", "Gate Location" & "Type of travel".
 - Step 9 : Two card visuals were added to the canvas, one representing average departure delay in minutes & other representing average arrival delay in minutes.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
+           
            Although, by default also while calculating average blank values are ignored.
 - Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
 - Step 11 : Ratings Visual was used to represent different ratings mentioned below,
