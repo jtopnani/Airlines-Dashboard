@@ -97,4 +97,4 @@ Following inferences can be drawn from the dashboard;
       a) Average delay in arrival(minutes) - 15.09
       b) Average delay in departure(minutes) - 14.71
       
-      Average delay will change if different visual filters will be applied.
+    Average delay will change if different visual filters will be applied.
