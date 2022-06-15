@@ -83,3 +83,5 @@ Following inferences can be drawn from the dashboard;
     k) Online boarding - 3.33/5
     l) Seat comfort - 3.44/5
     m) Departure & arrival convenience - 3.22/5
+  
+  while calculating average rating, null values have been ignored as they were not relevant for some customers.
