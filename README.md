@@ -90,4 +90,11 @@ Following inferences can be drawn from the dashboard;
   
   while calculating average rating, null values have been ignored as they were not relevant for some customers. 
   
-  These ratings may change based on applying different visual filters.  
+  These ratings will change if different visual filters will be applied.  
+  
+  ### [2] Average Delay 
+  
+      a) Average delay in arrival(minutes) - 15.09
+      b) Average delay in departure(minutes) - 14.71
+      
+      Average delay will change if different visual filters will be applied.
