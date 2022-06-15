@@ -47,6 +47,9 @@ In our dataset, Some parameters were assigned value 0, representing those parame
 
 All these values have been ignored while calculating average rating for each of the parameters mentioned above.
 
+- Step 12 : In the report view, under the insert tab, two text boxes were added to the canvas, in one of them name of the airlines was mentioned & in the other one company's tagline was written.
+- Step 13 : In the report view, under the insert tab, using shapes option from elements group a rectangle was inserted & similarly using image option company's logo was added to the report design area. 
+
   
 ![Dashboard_Image](https://user-images.githubusercontent.com/102996550/173762371-4a1469c2-56df-4f85-a963-5496dc4da3a7.jpg)
 
