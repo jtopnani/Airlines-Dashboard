@@ -53,7 +53,7 @@ All these values have been ignored while calculating average rating for each of 
   
 ![Dashboard_Image](https://user-images.githubusercontent.com/102996550/173762371-4a1469c2-56df-4f85-a963-5496dc4da3a7.jpg)
 
-## Insights
+# Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
