@@ -68,3 +68,18 @@ Following inferences can be drawn from the dashboard;
 
 
            thus, higher number of customers are neutral/unsatisfied.
+### [2] Average Ratings
+
+    a) Baggage Handling - 3.63/5
+    b) Check-in Service - 3.31/5
+    c) Cleanliness - 3.29/5
+    d) Ease of online booking - 2.88/5
+    e) Food & Drink - 3.21/5
+    f) In-flight Entertainment - 3.36/5
+    g) In-flight service - 3.64/5
+    h) In-flight Wifi service - 2.81/5
+    i) Leg room service - 3.37/5
+    j) On-board service - 3.38/5
+    k) Online boarding - 3.33/5
+    l) Seat comfort - 3.44/5
+    m) Departure & arrival convenience - 3.22/5
