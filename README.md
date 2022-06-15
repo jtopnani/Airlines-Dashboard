@@ -1,3 +1,3 @@
 # Airlines-Dashboard
 
-![Kingfisher_Pic](https://user-images.githubusercontent.com/102996550/173761439-61e20cd5-c164-4477-bfbd-d8b4c0ad2dcf.jpg)
+![Dashboard_Image](https://user-images.githubusercontent.com/102996550/173762371-4a1469c2-56df-4f85-a963-5496dc4da3a7.jpg)
