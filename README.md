@@ -68,6 +68,7 @@ Following inferences can be drawn from the dashboard;
 
 
            thus, higher number of customers are neutral/unsatisfied.
+           
 ### [2] Average Ratings
 
     a) Baggage Handling - 3.63/5
