@@ -68,13 +68,13 @@ Following inferences can be drawn from the dashboard;
 
 ### [1] Total Number of Customers = 129880
 
-   Number of satisfied Customers (Male) = 28159
+   Number of satisfied Customers (Male) = 28159 (21.68 %)
 
-   Number of satisfied Customers (Female) = 28269
+   Number of satisfied Customers (Female) = 28269 (21.76 %)
 
-   Number of neutral/unsatisfied customers (Male) = 35822 
+   Number of neutral/unsatisfied customers (Male) = 35822 (27.58 %)
 
-   Number of neutral/unsatisfied customers (Female) = 37630
+   Number of neutral/unsatisfied customers (Female) = 37630 (28.97 %)
 
 
            thus, higher number of customers are neutral/unsatisfied.
