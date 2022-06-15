@@ -3,6 +3,8 @@
 
 This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
 
+Since, number of neutral/dissatisfied customers are more than satisfied customers, thus in all they must work on improving their services.
+
 ### Stpes followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
