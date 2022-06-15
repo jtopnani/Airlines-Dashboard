@@ -15,17 +15,30 @@
            Although, by default also while calculating average blank values are ignored.
 - Step 10 : A bar chart was also added to the report design area representing the number of satisfied & neutral/unsatisfied customers. While creating this visual, field named "Gender" was also added to the Legends bucket, thus number of customers are also seggregated according the gender. 
 - Step 11 : Ratings Visual was used to represent different ratings mentioned below,
-- (a) Baggage Handling
-- (b) Check-in Services
-- (c) Cleanliness
-- (d) Ease of online booking
-- (e) Food & Drink
-- (f) In-flight Entertainment
-- (g) In-flight Service
-- (h) In-flight wifi service
-- (i) Leg Room service
-- (j) On-board service
-- (k) Online boarding
-- (l) Seat comfort
-- (m) Departure & arrival time convenience
+
+  (a) Baggage Handling
+
+  (b) Check-in Services
+  
+  (c) Cleanliness
+  
+  (d) Ease of online booking
+  
+  (e) Food & Drink
+  
+  (f) In-flight Entertainment
+
+  (g) In-flight Service
+  
+  (h) In-flight wifi service
+  
+  (i) Leg Room service
+  
+  (j) On-board service
+  
+  (k) Online boarding
+  
+  (l) Seat comfort
+  
+  (m) Departure & arrival time convenience
 ![Dashboard_Image](https://user-images.githubusercontent.com/102996550/173762371-4a1469c2-56df-4f85-a963-5496dc4da3a7.jpg)
