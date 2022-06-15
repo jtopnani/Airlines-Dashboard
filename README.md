@@ -84,4 +84,6 @@ Following inferences can be drawn from the dashboard;
     l) Seat comfort - 3.44/5
     m) Departure & arrival convenience - 3.22/5
   
-  while calculating average rating, null values have been ignored as they were not relevant for some customers.
+  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
+  
+  These ratings may change based on applying different visual filters.  
