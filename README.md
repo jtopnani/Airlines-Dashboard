@@ -76,8 +76,24 @@ for creating new column following DAX expression was written;
 Following DAX expression was written for the same,
         
         Count of Customers = COUNT(airline_passenger_satisfaction[ID])
-   
+        
 A card visual was used to represent count of customers.
+        
+ - Step 16 : New measure was created to find  % of customers,
+ 
+ Following DAX expression was written to find % of customers,
+ 
+         % Customers = (DIVIDE(airline_passenger_satisfaction[Count of Customers], 129880)*100)
+ 
+ A card visual was used to represent this perecntage.
+ 
+ - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
+ 
+ Following DAX expression was written to find total distance,
+ 
+         Total Distance Travelled = SUM(airline_passenger_satisfaction[Flight Distance])
+    
+A card visual was used to represent this total distance.
 
 ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
