@@ -57,7 +57,14 @@ All these values have been ignored while calculating average rating for each of 
 
 - Step 12 : In the report view, under the insert tab, two text boxes were added to the canvas, in one of them name of the airlines was mentioned & in the other one company's tagline was written.
 - Step 13 : In the report view, under the insert tab, using shapes option from elements group a rectangle was inserted & similarly using image option company's logo was added to the report design area. 
+- Step 14 : Calculated column was created in which, customers were grouped into various age groups.
 
+for creating new column following DAX expression was written;
+       Age Group = 
+        if(airline_passenger_satisfaction[Age]<=25, "0-25 (25 included)",
+        if(airline_passenger_satisfaction[Age]<=50, "25-50 (50 included)",
+        if(airline_passenger_satisfaction[Age]<=75, "50-75 (75 included)",
+        "75-100 (100 included)")))
 
 ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
