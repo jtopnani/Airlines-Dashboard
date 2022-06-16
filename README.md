@@ -129,3 +129,19 @@ Average delay will change if different visual filters will be applied.
  2.4)  0.31 % people who travelled belong to age group 75-100.
  
          thus, maximum number of people who travelled belong to age group 25-50.
+         
+### Customer Type
+
+3.1) 18.31 % customers have customer type 'First time'.
+
+3.2) 81.69 % customers have customer type 'returning'.
+       
+       thus, more customers have customer type 'returning'.
+
+### Type of travel
+
+4.1) 69.06 % customers have travel type 'Business'.
+
+4.2) 30.94 % customers have travel type 'Personal'.
+
+        thus, more customers have travel type 'Business'.
