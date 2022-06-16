@@ -108,6 +108,8 @@ Average delay will change if different visual filters will be applied.
 
  ### [4] Some other insights
  
+ ### Class
+ 
  1.1) 47.87 % people travelled by Business class.
  
  1.2) 44.89 % people travelled by Economy class.
@@ -115,6 +117,8 @@ Average delay will change if different visual filters will be applied.
  1.3) 7.25 % people travelled by Economy plus class.
  
          thus, maximum number of people travelled by Business class
+ 
+ ### Customer Type
  
  2.1)  21.69 % people who travelled belong to age group 0-25.
  
