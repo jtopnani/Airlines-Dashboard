@@ -118,7 +118,7 @@ Average delay will change if different visual filters will be applied.
  
          thus, maximum number of people travelled by Business class
  
- ### Customer Type
+ ### Age Group
  
  2.1)  21.69 % people who travelled belong to age group 0-25.
  
