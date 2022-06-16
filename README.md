@@ -95,6 +95,9 @@ A card visual was used to represent count of customers.
  
  A card visual was used to represent this perecntage.
  
+ ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+
+ 
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
  
  Following DAX expression was written to find total distance,
