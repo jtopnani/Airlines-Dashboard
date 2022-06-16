@@ -110,23 +110,23 @@ Average delay will change if different visual filters will be applied.
  
  ### Class
  
- 1.1) 47.87 % people travelled by Business class.
+ 1.1) 47.87 % customers travelled by Business class.
  
- 1.2) 44.89 % people travelled by Economy class.
+ 1.2) 44.89 % customers travelled by Economy class.
  
- 1.3) 7.25 % people travelled by Economy plus class.
+ 1.3) 7.25 % customers travelled by Economy plus class.
  
          thus, maximum customers travelled by Business class.
  
  ### Age Group
  
- 2.1)  21.69 % people who travelled belong to age group 0-25.
+ 2.1)  21.69 % customers belong to age group 0-25.
  
- 2.2)  52.44 % people who travelled belong to age group 25-50.
+ 2.2)  52.44 % customers belong to age group 25-50.
  
- 2.3)  25.57 % people who travelled belong to age group 50-75.
+ 2.3)  25.57 % customers belong to age group 50-75.
  
- 2.4)  0.31 % people who travelled belong to age group 75-100.
+ 2.4)  0.31 % customers belong to age group 75-100.
  
          thus, maximum customers belong to age group 25-50.
          
