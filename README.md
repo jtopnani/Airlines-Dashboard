@@ -95,6 +95,8 @@ A card visual was used to represent count of customers.
  
  A card visual was used to represent this perecntage.
  
+ Snap of % of customers who preferred business class
+ 
  ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
 
  
