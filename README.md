@@ -70,6 +70,14 @@ for creating new column following DAX expression was written;
         if(airline_passenger_satisfaction[Age]<=75, "50-75 (75 included)",
         
         "75-100 (100 included)")))
+        
+- Step 15 : New measure was created to find total count of customers.
+
+Following DAX expression was written for the same,
+        
+        Count of Customers = COUNT(airline_passenger_satisfaction[ID])
+   
+A card visual was used to represent count of customers.
 
 ![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
