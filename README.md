@@ -120,15 +120,15 @@ Average delay will change if different visual filters will be applied.
  
  ### Age Group
  
- 2.1)  21.69 % customers belong to age group 0-25.
+ 2.1)  21.69 % customers belong to '0-25' age group.
  
- 2.2)  52.44 % customers belong to age group 25-50.
+ 2.2)  52.44 % customers belong to '25-50' age group.
  
- 2.3)  25.57 % customers belong to age group 50-75.
+ 2.3)  25.57 % customers belong to '50-75' age group.
  
- 2.4)  0.31 % customers belong to age group 75-100.
+ 2.4)  0.31 % customers belong to '75-100' age group.
  
-         thus, maximum customers belong to age group 25-50.
+         thus, maximum customers belong to '25-50' age group.
          
 ### Customer Type
 
