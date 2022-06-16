@@ -71,6 +71,11 @@ for creating new column following DAX expression was written;
         
         "75-100 (100 included)")))
         
+Snap of new calculated column added,
+
+![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+
+        
 - Step 15 : New measure was created to find total count of customers.
 
 Following DAX expression was written for the same,
