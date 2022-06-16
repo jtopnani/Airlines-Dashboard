@@ -116,7 +116,7 @@ Average delay will change if different visual filters will be applied.
  
  1.3) 7.25 % people travelled by Economy plus class.
  
-         thus, maximum number of people travelled by Business class
+         thus, maximum customers travelled by Business class.
  
  ### Age Group
  
@@ -128,7 +128,7 @@ Average delay will change if different visual filters will be applied.
  
  2.4)  0.31 % people who travelled belong to age group 75-100.
  
-         thus, maximum number of people who travelled belong to age group 25-50.
+         thus, maximum customers belong to age group 25-50.
          
 ### Customer Type
 
